@@ -25,7 +25,7 @@
 }
 
 #terminal > .cmd {
-    height: 14px;
+    min-height: 14px;
     padding: 1px 0;
     word-wrap: break-word;
 }
